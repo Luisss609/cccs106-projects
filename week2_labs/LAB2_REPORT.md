@@ -1,7 +1,7 @@
 **Student Name:** Luis Van Dirk B. Albano
 **Student ID:** 231002303
 **Section:** B
-**Date:** [Submission Date]
+**Date:** 9/11/2025
 
 ## Git Configuration
 
