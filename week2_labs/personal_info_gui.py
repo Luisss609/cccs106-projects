@@ -68,7 +68,7 @@ def main(page: ft.Page):
     # Output container
     output_container = ft.Container(
         content=ft.Text("Fill out the form and click 'Generate Profile' to see your information."),
-        bgcolor=ft.Colors.GREY_100,
+        bgcolor=ft.Colors.BLACK87,
         padding=15,
         border_radius=10,
         width=550
@@ -89,7 +89,7 @@ def main(page: ft.Page):
             
             # Generate profile
             profile_content = ft.Column([
-                ft.Text("🎓 STUDENT PROFILE", size=20, weight=ft.FontWeight.BOLD, color=ft.Colors.INDIGO_700),
+                ft.Text("🎓 STUDENT PROFILE", size=20, weight=ft.FontWeight.BOLD, color=ft.Colors.BLACK87),
                 ft.Divider(),
                 ft.Text(f"👤 Full Name: {first_name.value} {last_name.value}", size=16),
                 ft.Text(f"🆔 Student ID: {student_id.value or 'Not provided'}", size=16),
