@@ -46,10 +46,7 @@ During this laboratory, I learned the basics of Python program writing and execu
 I also had more familiarity with development environment set-up. Setting up Python in VS Code, selecting the appropriate interpreter, and a virtual environment allowed me to understand how a correct setup allows easier coding and eliminates issues in the future. I learned that it is important to deal with errors through the calculator program. Trying try-except blocks and divide by zero made it obvious to me how to make programs easier and more reliable to use.
 
 ## Screenshots
-
-![alt text](Lab1_ScreenShots/basic_calculator_output.png.png)
-![alt text](Lab1_ScreenShots/environment_setup2.png.png)
-![alt text](Lab1_ScreenShots/vscode_setup.png.png)
-![alt text](Lab1_ScreenShots/hello_world_output.png.png)
-![alt text](Lab1_ScreenShots/basic_calculator_output.png.png)
-
+![alt text](lab1_screenshots/helloworld.png.png)
+![alt text](lab1_screenshots/basic_calculator_output.png.png)
+![alt text](<lab1_screenshots/invalid output.png>)
+![alt text](lab1_screenshots/vscode.setup.png.png)
