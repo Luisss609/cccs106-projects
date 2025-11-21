@@ -332,5 +332,5 @@ def main(page: ft.Page):
     WeatherApp(page)
 
 
-if _name_ == "_main_":
+if '__name__' == "_main_":
     ft.app(target=main)
